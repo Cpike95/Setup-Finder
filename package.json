@@ -1,0 +1,11 @@
+{
+  "name": "Setup-Finder",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Cpike95/Setup-Finder.git",
+  "author": "Curtis Pike <58271540+Cpike95@users.noreply.github.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.5.2"
+  }
+}
